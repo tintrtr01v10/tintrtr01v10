@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning etherium
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me https://twitter.com/tintrtr01   follow back
+-  contact me on telegram https://web.telegram.org/k/#@tintrtr01
 
 <!---
 tintrtr01v10/tintrtr01v10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
